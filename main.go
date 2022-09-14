@@ -8,5 +8,6 @@ import "fmt"
 *   @description:
  */
 func main() {
+	fmt.Println("test2")
 	fmt.Println("test")
 }
